@@ -23,7 +23,7 @@ I work at the intersection of computational and molecular genomics. My research 
 
 **3D chromatin genomics** — chromosome-scale Hi-C assembly, TAD calling, A/B compartment analysis, and large-scale chromosomal rearrangement detection in hybrid coral genomes (MSc thesis, GADI HPC).
 
-**Microbiome profiling** — end-to-end 16S rRNA pipelines studying Wolbachia–host interactions across 24+ generations of field-collected insects and mosquito populations (Hoffmann Lab, Spartan HPC).
+**Microbiome profiling** — end-to-end 16S rRNA pipelines studying endosymbionts bacteria of field-collected insects and mosquito populations (Hoffmann Lab, Spartan HPC).
 
 ---
 
@@ -31,7 +31,7 @@ I work at the intersection of computational and molecular genomics. My research 
 
 ### 🧬 [hic-coral-hybrids](https://github.com/<jasmeenkaur>/hic-coral-hybrids)
 
-Chromosome-scale Hi-C assembly and 3D chromatin analysis of F1 sperm hybrid coral genomes. Investigated genomic signatures — TAD organisation, A/B chromatin compartments, and chromosomal rearrangements — underpinning thermal tolerance and fitness.
+Chromosome-scale Hi-C assembly and 3D chromatin analysis of sperm hybrid coral genomes. Investigated genomic signatures — TAD organisation, A/B chromatin compartments, and chromosomal rearrangements.
 
 `BWA-MEM2` `YaHS` `Juicer/JBAT` `HiCExplorer` `cooler` `D-GENIES` `Circos` `BEDTools` `Python` `R`
 
@@ -45,11 +45,11 @@ End-to-end 16S rRNA amplicon pipeline for profiling microbial communities in fie
 
 ---
 
-### 🧾 [genome-annotation](https://github.com/<jasmeenkaur>/genome-annotation)
+### 🧾 [genome-analysis-scripts](https://github.com/jasmeenkaur/genome-analysis-scripts)
 
-Computational annotation pipeline for genomic assemblies developed at the Hoffmann Lab, Bio21 Institute.
+Python scripts for genomic data preparation and quality control, including fastp-based read processing and file format conversion. Developed as part of MSc research at the Hoffmann Lab, Bio21 Institute.
 
-`Python` `Jupyter` `Spartan HPC`
+`Python` `fastp` `Jupyter` `GADI`
 
 ---
 
@@ -59,7 +59,7 @@ Computational annotation pipeline for genomic assemblies developed at the Hoffma
 |---|---|
 | Sequence analysis | QIIME2 · BWA-MEM2 · samtools · cutadapt · DADA2 · samblaster |
 | 3D genomics | HiCExplorer · YaHS · Juicer · Juicebox/JBAT · D-GENIES · cooler · 3D-DNA · Matlock |
-| Genome tools | BEDTools · Circos · SILVA 138 |
+| Genome tools | BEDTools · Circos |
 | Programming | Python · R · Bash · SQL · STATA |
 | HPC | Spartan (UniMelb) · GADI (NCI) · Unix/Linux · Conda · GNU Screen |
 | Analysis methods | TAD calling · A/B compartments · Beta-diversity · PCA · Taxonomic classification |
@@ -68,10 +68,10 @@ Computational annotation pipeline for genomic assemblies developed at the Hoffma
 
 ## Education
 
-🎓 **MSc Bioinformatics** — University of Melbourne *(2024–2026)*
+🎓 **MSc Bioinformatics** — University of Melbourne
 Thesis: *Chromosome-length 3D genomics for coral hybrids — genomic signatures of thermal tolerance and fitness*
 
-🎓 **BTech Biotechnology** — Thapar Institute of Engineering & Technology, India *(2015–2019)*
+🎓 **BTech Biotechnology** — Thapar Institute of Engineering & Technology, India
 
 ---
 
